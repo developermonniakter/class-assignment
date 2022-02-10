@@ -1,0 +1,24 @@
+nav.navbar{
+    background: #ffff !important;
+}
+.logo{
+    width: 90px;
+}
+    /* pricing-section */
+.pricing-item{
+    background-color:#ffffff;
+}
+
+    /* team-section */
+
+.team-section .box img{
+    width: 35% ;
+    position: relative;
+    margin-top: -50px;
+    top: -15px;
+    left: -75px;
+}
+    /* footer-section */
+.footer-section {
+    background-color: rgb(2, 2, 44);
+}
